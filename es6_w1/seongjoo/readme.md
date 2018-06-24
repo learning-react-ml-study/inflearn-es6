@@ -20,3 +20,18 @@ const를 기본으로 사용함.<br>
 var를 사용하지 않음.
 
 const를 사용하더라도 배열과 오프젝트의 값을 변경하는 것은 가능함.
+
+
+# ES2015 String에 새로운 메서드들
+
+startWith() - 앞의 부분의 문자 일치여부확인
+
+https://www.w3schools.com/jsref/jsref_startswith.asp
+
+endsWith() - 뒤의 부분의 문자 일치여부 확인
+
+https://www.w3schools.com/jsref/jsref_endswith.asp
+
+includes() - 해당 문자가 포함되어 있는지 확인
+
+https://www.w3schools.com/jsref/jsref_includes.asp
