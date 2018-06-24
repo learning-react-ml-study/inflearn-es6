@@ -35,3 +35,17 @@ https://www.w3schools.com/jsref/jsref_endswith.asp
 includes() - 해당 문자가 포함되어 있는지 확인
 
 https://www.w3schools.com/jsref/jsref_includes.asp
+
+# for of – 순회하기
+
+배열에서는 for in을 사용하면 안 됨.
+
+# spread operator
+
+펼침연산
+
+- 배열의 복사<br>
+- 배열의 합 등등
+
+# from 메서드로 진짜 배열 만들기
+
