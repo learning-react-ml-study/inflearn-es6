@@ -42,6 +42,17 @@ console.log(first.includes('he'))  // true
 let template = `this is template string method ${first} ${second}`
 console.log(template)
 
+// padStart
+let padMethod = 'padStart'
+
+console.log(padMethod.padStart(10, '32')) // 32padStart
+console.log(padMethod.padStart(1, '32')) // padStart
+
+// padEnd
+console.log(
+    padMethod.padEnd(10, '32')  // padStart32
+)
+
 
 // arry for - of
 
