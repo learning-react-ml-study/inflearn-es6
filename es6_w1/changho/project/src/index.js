@@ -4,8 +4,6 @@ const hello = 'hello'
 let arr = [1, 2, 3];
 
 
-
-
 function set() {
     console.log('start')
 };
@@ -20,7 +18,7 @@ let second = 'hello'
 let third = 'mine';
 let forth = 'e';
 
-let result = first.startsWith(second);
+let result = first.startsWith(second);  // IE 지원 안됨
 console.log(result) // true
 
 // endsWith --> 끝단어가 매칭되는지 확인
@@ -34,9 +32,11 @@ console.log(result2) // true
 
 // includes  --> 어떤 string이 들어가 있는지 체크 인자로 str을 받는다
 
-console.log(first.includes(second))  // true
-console.log(first.includes('he'))  // true
+console.log(first.includes(second))  // true  IE에서는 아예 지원을 안함
+console.log(first.includes('he'))  // true  // 폴리필을 사용해야함
 
+let str = '<p><div></div>' + strw2 + '</p>'
+  
 
 // template 메소드
 let template = `this is template string method ${first} ${second}`
@@ -46,7 +46,7 @@ console.log(template)
 let padMethod = 'padStart'
 
 console.log(padMethod.padStart(10, '32')) // 32padStart
-console.log(padMethod.padStart(1, '32')) // padStart
+
 
 // padEnd
 console.log(
@@ -62,9 +62,3 @@ for(let n of data) {
 }
 
 // string 값도 변화 가능
-let str = '2sdagsd';
-
-for(let s of str) {
-    console.log(s)
-}
-

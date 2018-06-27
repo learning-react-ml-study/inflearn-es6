@@ -18,7 +18,7 @@ var second = 'hello';
 var third = 'mine';
 var forth = 'e';
 
-var result = first.startsWith(second);
+var result = first.startsWith(second); // IE 지원 안됨
 console.log(result); // true
 
 // endsWith --> 끝단어가 매칭되는지 확인
@@ -32,9 +32,10 @@ console.log(result2); // true
 
 // includes  --> 어떤 string이 들어가 있는지 체크 인자로 str을 받는다
 
-console.log(first.includes(second)); // true
-console.log(first.includes('he')); // true
+console.log(first.includes(second)); // true  IE에서는 아예 지원을 안함
+console.log(first.includes('he')); // true  // 폴리필을 사용해야함
 
+var str = '<p><div></div>' + strw2 + '</p>';
 
 // template 메소드
 var template = 'this is template string method ' + first + ' ' + second;
@@ -44,7 +45,7 @@ console.log(template);
 var padMethod = 'padStart';
 
 console.log(padMethod.padStart(10, '32')); // 32padStart
-console.log(padMethod.padStart(1, '32')); // padStart
+
 
 // padEnd
 console.log(padMethod.padEnd(10, '32') // padStart32
@@ -76,33 +77,6 @@ try {
     } finally {
         if (_didIteratorError) {
             throw _iteratorError;
-        }
-    }
-}
-
-var str = '2sdagsd';
-
-var _iteratorNormalCompletion2 = true;
-var _didIteratorError2 = false;
-var _iteratorError2 = undefined;
-
-try {
-    for (var _iterator2 = str[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
-        var s = _step2.value;
-
-        console.log(s);
-    }
-} catch (err) {
-    _didIteratorError2 = true;
-    _iteratorError2 = err;
-} finally {
-    try {
-        if (!_iteratorNormalCompletion2 && _iterator2.return) {
-            _iterator2.return();
-        }
-    } finally {
-        if (_didIteratorError2) {
-            throw _iteratorError2;
         }
     }
 }
