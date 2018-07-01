@@ -4,17 +4,18 @@ const SETTING = {
     maxNumber: 45
 };
 
-console.log(SETTING.name);
 let mySet = new Set();
-let count = 0;
+let setCount = 0;
+let {name:myTitle,count:countNum,maxNumber:myMaxNumber} = SETTING;
+console.log(myTitle);
 
 function getRandomNumber(maxNumber) {
     let randNum = [];
     randNum += parseInt(Math.random() * maxNumber) + 1;
     mySet.add(randNum);
-    count = mySet.size;
+    setCount = mySet.size;
 }
-for(let i=0; SETTING.count>count; i++){
-    getRandomNumber(SETTING.maxNumber);
+for(let i=0; countNum>setCount; i++){
+    getRandomNumber(myMaxNumber);
 }
 console.log(mySet.values());
