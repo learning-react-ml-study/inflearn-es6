@@ -13,6 +13,11 @@ function getObj() {
         console.log(name);
     }
 
+    /*return {
+        getName: getName,
+        setName: setName
+    }*/
+
     return {getName,setName,name}
 }
 
