@@ -1,5 +1,3 @@
-console.log('2주차 파일 및 프로젝트')
-
 // 디스트럭쳐링 
 function displayStudentInfo(obj) {
     var {first, last} = obj;
@@ -50,13 +48,40 @@ console.log(other); // [2, 3, 4, 5];
 
 let object = {name: 'dk', age: 23};
 
-let {name, age} = object;
-console.log('name: ', name); // dk
-console.log('age: ', age) // 23
+// let {name, age} = object;
+// console.log('name: ', name); // dk
+// console.log('age: ', age) // 23
 
 let {name: x, age: y} = {name: 'chang', age: 11};
 
 
+let json = [
+    {
+        title: 'google',
+        news: 'skdjfklsjdf',
+        url: 'www.google.com'
+    },
+    {
+        title: 'naver',
+        news: 'skadfldskfl',
+        url: 'www.naver.com'
+    }
+]
+
+let [google, {title, news, url}] = json
+console.log(google)  // {title: "google", news: "skdjfklsjdf", url: "www.google.com"}
+console.log(title,news, url)  // naver skadfldskfl www.naver.com
 
 
+let funcObj = {
+    title: 'sbs',
+    news: 'loremsdk'
+}
 
+function sort(obj) {
+    let {title, news} = obj  // 내부에서 분할 할당
+    console.log(title)
+    document.body.innerText = title
+}
+
+sort(funcObj)  // sbs
