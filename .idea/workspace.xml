@@ -1,63 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05d1adc-7204-48b1-b12e-1461a760185c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/es6_w1/changho/project/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/es6_w1/changho/project/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6_w1/changho/project/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/es6_w1/changho/project/src/index.js" afterDir="false" />
+    <list default="true" id="d775d5e2-4e0c-42b7-99ab-c47cbb9bf807" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es6_w2/seongjoo/project/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/es6_w2/seongjoo/project/test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1883156688">
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="1" />
-          <entry key="js" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="30" />
-          <entry key="js" value="179" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="30" />
-          <entry key="JavaScript" value="179" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/es6_w1/changho/project/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="417">
+                <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/es6_w1/changho/project/dist/index.js">
+      <file leaf-file-name="destructuring_object.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_object.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/project/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -68,6 +53,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -77,29 +63,47 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/es6_w1/changho/project/dist/index.html" />
-        <option value="$PROJECT_DIR$/es6_w1/changho/project/src/index.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/ex1.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/ex2.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/let_closure/ex.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/let_closure/let.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/const_ex.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/const_ex2.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/const_immutable_array.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/for_of.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/for_of2.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/spread_operator.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/spread_operator2.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/spread_operator3.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/readme.md" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/from.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/from2.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.html" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.js" />
+        <option value="$PROJECT_DIR$/es6_w1/seongjoo/ex/let_closure/ex.html" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/object.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/object1.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/object2.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_array.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_object.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/Destructuring_JSON_parsing.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_event.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_event_object/test.html" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/set.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/WeakSet.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/weakmap.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/readme.md" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/ex/weakmap_use.js" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/project/readme.md" />
+        <option value="$PROJECT_DIR$/es6_w2/seongjoo/project/test.js" />
       </list>
     </option>
   </component>
-  <component name="JsBowerSettings">
-    <exe-path />
-    <config-path />
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
-    <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
-  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/es6_w1/changho/project/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -107,15 +111,17 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="width" value="840" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,47 +137,40 @@
             <path>
               <item name="inflearn-es6" type="b2602c69:ProjectViewProjectNode" />
               <item name="inflearn-es6" type="462c0819:PsiDirectoryNode" />
-              <item name="es6_w1" type="462c0819:PsiDirectoryNode" />
-              <item name="changho" type="462c0819:PsiDirectoryNode" />
+              <item name="es6_w2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="inflearn-es6" type="b2602c69:ProjectViewProjectNode" />
               <item name="inflearn-es6" type="462c0819:PsiDirectoryNode" />
-              <item name="es6_w1" type="462c0819:PsiDirectoryNode" />
-              <item name="changho" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="es6_w2" type="462c0819:PsiDirectoryNode" />
+              <item name="seongjoo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="inflearn-es6" type="b2602c69:ProjectViewProjectNode" />
               <item name="inflearn-es6" type="462c0819:PsiDirectoryNode" />
-              <item name="es6_w1" type="462c0819:PsiDirectoryNode" />
-              <item name="changho" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="es6_w2" type="462c0819:PsiDirectoryNode" />
+              <item name="seongjoo" type="462c0819:PsiDirectoryNode" />
+              <item name="ex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="inflearn-es6" type="b2602c69:ProjectViewProjectNode" />
               <item name="inflearn-es6" type="462c0819:PsiDirectoryNode" />
-              <item name="es6_w1" type="462c0819:PsiDirectoryNode" />
-              <item name="changho" type="462c0819:PsiDirectoryNode" />
+              <item name="es6_w2" type="462c0819:PsiDirectoryNode" />
+              <item name="seongjoo" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="6.9.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,44 +184,143 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration name="WeakSet.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="WeakSet.js" working-dir="$PROJECT_DIR$/es6_w2/seongjoo/ex" />
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/es6_w2/seongjoo/project" />
+    <configuration name="weakmap.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="weakmap.js" working-dir="$PROJECT_DIR$/es6_w2/seongjoo/ex" />
+    <configuration name="weakmap_use.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="weakmap_use.js" working-dir="$PROJECT_DIR$/es6_w2/seongjoo/ex" />
+    <list>
+      <item itemvalue="Node.js.WeakSet.js" />
+      <item itemvalue="Node.js.weakmap.js" />
+      <item itemvalue="Node.js.weakmap_use.js" />
+      <item itemvalue="Node.js.test.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.weakmap_use.js" />
+        <item itemvalue="Node.js.weakmap.js" />
+        <item itemvalue="Node.js.WeakSet.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f05d1adc-7204-48b1-b12e-1461a760185c" name="Default Changelist" comment="" />
-      <created>1529757565787</created>
+      <changelist id="d775d5e2-4e0c-42b7-99ab-c47cbb9bf807" name="Default" comment="" />
+      <created>1529814719756</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1529757565787</updated>
-      <workItem from="1529757566909" duration="1655000" />
-      <workItem from="1529790472423" duration="25000" />
+      <updated>1529814719756</updated>
+      <workItem from="1529814722021" duration="105000" />
+      <workItem from="1529814946436" duration="7872000" />
+      <workItem from="1529832187709" duration="11691000" />
+      <workItem from="1529931497689" duration="598000" />
+      <workItem from="1530016441525" duration="598000" />
+      <workItem from="1530109770380" duration="436000" />
+      <workItem from="1530194066913" duration="501000" />
+      <workItem from="1530263598162" duration="509000" />
+      <workItem from="1530278138757" duration="75000" />
+      <workItem from="1530278280182" duration="400000" />
+      <workItem from="1530331078339" duration="1472000" />
+      <workItem from="1530338242316" duration="169000" />
+      <workItem from="1530352628451" duration="123000" />
+      <workItem from="1530373307677" duration="159000" />
+      <workItem from="1530432707940" duration="7355000" />
+      <workItem from="1530449658348" duration="10093000" />
     </task>
+    <task id="LOCAL-00001" summary="#seongjoo comment let, const 정리">
+      <created>1529824770267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529824770267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#seongjoo comment let, const 정리">
+      <created>1529824839781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529824839781</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#seongjoo comment ES2015 String에 새로운 메서드들 정리">
+      <created>1529825764672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529825764672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#seongjoo comment ES6 week1 정리 끝">
+      <created>1529850754468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529850754469</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#seongjoo comment ES6 week2 간단히 객체생성하기">
+      <created>1530441601005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530441601005</updated>
+    </task>
+    <task id="LOCAL-00006" summary="#seongjoo comment ES6 week2 Destructuring 정리 끝">
+      <created>1530455226446</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530455226447</updated>
+    </task>
+    <task id="LOCAL-00007" summary="#seongjoo comment ES6 week2 Set &amp; WeakSet 정리 끝">
+      <created>1530457037518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530457037518</updated>
+    </task>
+    <task id="LOCAL-00008" summary="#seongjoo comment ES6 week2 Map &amp; WeakMap 정리 끝">
+      <created>1530459749857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530459749857</updated>
+    </task>
+    <task id="LOCAL-00009" summary="#seongjoo comment ES6 week2 로또 번호 생성기 완료">
+      <created>1530465021183</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1530465021183</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1680000" />
+    <option name="totallyTimeSpent" value="42156000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
+    <frame x="840" y="23" width="840" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50183153" side_tool="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4981685" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.46705884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,25 +329,360 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#seongjoo comment let, const 정리" />
+    <MESSAGE value="#seongjoo comment ES2015 String에 새로운 메서드들 정리" />
+    <MESSAGE value="#seongjoo comment ES6 week1 정리 끝" />
+    <MESSAGE value="#seongjoo comment ES6 week2 간단히 객체생성하기" />
+    <MESSAGE value="#seongjoo comment ES6 week2 Destructuring 정리 끝" />
+    <MESSAGE value="#seongjoo comment ES6 week2 Set &amp; WeakSet 정리 끝" />
+    <MESSAGE value="#seongjoo comment ES6 week2 Map &amp; WeakMap 정리 끝" />
+    <MESSAGE value="#seongjoo comment ES6 week2 로또 번호 생성기 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="#seongjoo comment ES6 week2 로또 번호 생성기 완료" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/es6_w1/changho/project/dist/index.html">
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/es6_w1/changho/project/src/index.js">
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/for_of.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/es6_w1/changho/project/dist/index.js">
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/from2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="867">
+            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/for_of.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/from2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="459">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/const_immutable_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/const_ex2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="15919" column="12" selection-start-line="15919" selection-start-column="12" selection-end-line="15919" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/ex1.js" />
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/ex2.js" />
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/const_ex.js" />
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/from.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/const_immutable_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="867">
+            <caret line="51" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/from2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/let_ex2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/let_closure/let.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/let_closure/ex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/const_ex1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/const_ex2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/practice/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/let_closure/ex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/for_of2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/let_ex1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/for_of.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/spread_operator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/spread_operator2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w1/seongjoo/ex/spread_operator3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/object.js" />
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/object2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/object1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/Destructuring_JSON_parsing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_event_object/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/weakmap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/weakmap_use.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/changho/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/WeakSet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/project/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="417">
+            <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/ex/destructuring_object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6_w2/seongjoo/project/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
