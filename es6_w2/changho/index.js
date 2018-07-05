@@ -31,7 +31,6 @@ function reverseArr(arr) {
     return arr;
 }
 
-
 let arr1 = [1, 3, 4];
 // let [a, b, c] = arr1;
 
