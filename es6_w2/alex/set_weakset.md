@@ -10,6 +10,10 @@ Weakset : 원소로 object만 사용 - string, number, symbol 같은 데이터�
 
 
 
+----------------------------------------------------------------------
+
+<example>
+
 Let test_set_01 = new Set([1,2,1,2,”test”]); 
 
 console.log(test_set_01.size); 
@@ -36,4 +40,5 @@ Console.log(test_set_01.has(100));
 
 .clear
 
- 
+----------------------------------------------------
+
