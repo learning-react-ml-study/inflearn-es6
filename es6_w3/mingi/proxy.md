@@ -107,3 +107,27 @@ const proxy = new Proxy({name:'crong', count : 0},{
   }
 });
 ~~~
+### if else 사용해서 해보기
+
+~~~javascript
+
+const proxy = new Proxy({name:'crong', count : 0},{
+  get : function(target, property, receiver){
+    if (property in target) {
+      return target[property];
+    } else{
+      target[property] = 'new keyword';
+      return target[property];
+    }
+  },
+  set : function(target, property, value){
+    console.log('set메서드 호출');
+    target[property] = value;
+    target['count']++;
+  }
+});
+
+console.log(proxy.name);
+console.log(proxy.aas);
+
+~~~
