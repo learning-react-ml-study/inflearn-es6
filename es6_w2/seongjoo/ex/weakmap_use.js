@@ -29,4 +29,4 @@ console.log(obj);
 
 myarea = null;
 
-console.log(obj)
+console.log(obj);
