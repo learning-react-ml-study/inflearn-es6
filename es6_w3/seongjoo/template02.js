@@ -7,17 +7,23 @@ const data = [
     {
         name:'starbucks',
         order:false
+    },
+    {
+        name: 'coffee-king',
+        order: true,
+        items:['americano','latte']
     }
 ];
 
 function fn(tags, name, items) {
     console.log(tags);
     if(typeof items === 'undefined'){
-        items = '주문가능한 상품이 없습니다.';
+        items = '<span style="color:red">주문가능한 상품이 없습니다.</span>';
     }
     return (tags[0] + name + tags[1] + items +tags[2]);
 }
-
-const template = fn`<div>welcome ${data[0].name} !!</div>
-<h2>주문가능항목</h2><div>${data[0].items}</div>`;
-console.log(template);
+data.forEach((v) => {
+    let template = fn`<h1>welcome ${v.name} !!</h1>
+<h2>주문가능항목</h2><div>${v.items}</div>`;
+    document.querySelector('#message').innerHTML += template;
+});
