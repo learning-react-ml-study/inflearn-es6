@@ -15,3 +15,17 @@ setTimeout(()=>{
  console.log("settimeout arrow");
 },1000);
 ```
+
+# module
+
+https://poiemaweb.com/es6-module
+
+# Proxy
+
+```js
+const myObj = {name:'seongjoo'};
+
+const proxy = new Proxy(myObj, {});
+
+proxy.name; // seongjoo
+```
